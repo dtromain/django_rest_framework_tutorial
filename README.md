@@ -1,1 +1,1 @@
-# django_rest_framework_tutotial
+# django_rest_framework_tutorial
